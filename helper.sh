@@ -68,5 +68,5 @@ function update_menu() {
 rm -rf /root/.cache
 set_paths
 set_permissions
-update_menu
+#update_menu
 main_menu
